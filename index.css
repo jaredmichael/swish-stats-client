@@ -1,12 +1,12 @@
 nav {
-    color: darkslategrey
+    background-color: darkslategrey
 }
 
 .heading, .login-signup, .player-card, .game-history, .game-info {
-    color: lightgray
+    background-color: lightgray
 }
 
 .description, .career-avg {
-    color: gray
+    background-color: gray
 }
 
