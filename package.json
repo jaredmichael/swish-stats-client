@@ -1,0 +1,22 @@
+{
+  "name": "swish-stats",
+  "version": "1.0.0",
+  "description": "Basketball Stats App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaredmichael/swish-stats.git"
+  },
+  "keywords": [
+    "Stats"
+  ],
+  "author": "Jared Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredmichael/swish-stats/issues"
+  },
+  "homepage": "https://github.com/jaredmichael/swish-stats#readme"
+}

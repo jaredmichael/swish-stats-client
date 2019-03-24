@@ -1,0 +1,12 @@
+nav {
+    color: darkslategrey
+}
+
+.heading, .login-signup, .player-card, .game-history, .game-info {
+    color: lightgray
+}
+
+.description, .career-avg {
+    color: gray
+}
+
